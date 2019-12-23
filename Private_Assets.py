@@ -103,7 +103,7 @@ class Distributions():
 if __name__ == '__main__':
 
     #Contribution
-    sims = 1000
+    sims = 10000
     mean_drawdown_rate = 0.41; N = 20 * 4; sigma_drawdown = .21; Io = 100.; dt = 0.25
     cum_drawdown = 0
 
